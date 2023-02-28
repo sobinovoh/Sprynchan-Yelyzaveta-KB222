@@ -1,6 +1,5 @@
 #include <iostream>
 #include "ModulesSprynchan.h"
-#include <Windows.h>
 
 using namespace std;
 
@@ -29,8 +28,6 @@ dec_and_hec(int x, int y, int z) {
 
 int main()
 {
-    SetConsoleCP(1251);
-    SetConsoleOutputCP(1251);
     dev();
     char a, b;
     cout << "¬вед≥ть значенн€ a, b: " << endl;
