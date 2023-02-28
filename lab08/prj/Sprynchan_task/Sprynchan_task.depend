@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1677608937 source:c:\git\lab08\prj\sprynchan_task\main.cpp
+	<iostream>
+	"ModulesSprynchan.h"
+	<Windows.h>
+
+1677500282 c:\git\lab08\prj\modulessprynchan.h
+
