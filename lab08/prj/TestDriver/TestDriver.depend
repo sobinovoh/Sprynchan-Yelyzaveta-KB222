@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1677598163 source:c:\git\lab08\prj\testdriver\main.cpp
+	<iostream>
+	"ModulesSprynchan.h"
+	<iomanip>
+
+1677500282 c:\git\lab08\prj\modulessprynchan.h
+
